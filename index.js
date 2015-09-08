@@ -29,10 +29,10 @@ exports.multiply = function multiply (num1, num2) {
 }
 
 exports.product = function product (numbers) {
-  return numbers.reduce(exports.add)
+  return numbers.reduce(exports.multiply)
 }
 
-exports.dvide = function divide (num1, num2) {
+exports.divide = function divide (num1, num2) {
   areNumbers(num1, num2)
 
   return (+num1) / (+num2)
