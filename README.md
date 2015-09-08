@@ -1,5 +1,5 @@
 # arithmetic
-[![Build Status](https://travis-ci.org/bsiddiqui/arithmetic.svg?branch=master)](https://travis-ci.org/bsiddiqui/arithmetic) [![Code Climate](https://codeclimate.com/github/bsiddiqui/arithmetic/badges/gpa.svg)](https://codeclimate.com/github/bsiddiqui/arithmetic) [![Test Coverage](https://codeclimate.com/github/bsiddiqui/arithmetic/badges/coverage.svg)](https://codeclimate.com/github/bsiddiqui/arithmetic) [![Version](https://badge.fury.io/js/arithmetic.svg)](http://badge.fury.io/js/arithmetic) [![Downloads](http://img.shields.io/npm/dm/arithmetic.svg)](https://www.npmjs.com/package/arithmetic)
+[![Build Status](https://travis-ci.org/bsiddiqui/arithmetic.svg?branch=master)](https://travis-ci.org/bsiddiqui/arithmetic) [![Code Climate](https://codeclimate.com/github/bsiddiqui/arithmetic/badges/gpa.svg)](https://codeclimate.com/github/bsiddiqui/arithmetic) [![Version](https://badge.fury.io/js/arithmetic.svg)](http://badge.fury.io/js/arithmetic) [![Downloads](http://img.shields.io/npm/dm/arithmetic.svg)](https://www.npmjs.com/package/arithmetic)
 
 Arithmetic safely conducts arithmetic operations by ensuring the values are valid numbers and typecasting them prior to evaluation.
 
